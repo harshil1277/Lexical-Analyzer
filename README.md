@@ -2,9 +2,7 @@
 Hard coded Finite state machines for Lexical Analysis 
 I will walk you through steps how to run the lexical analyzer we coded. First let us go through the constraints it supports.
 
-    • Identifier: A string starting with an underscore or a letter and followed by any number 
-of underscores, letters and digits. Identifiers with two leading underscores (__) are 
-disallowed
+    • Identifier: A string starting with an underscore or a letter and followed by any number of underscores, letters and digits. Identifiers with two leading underscores (__) are disallowed
     • Keywords: short int float double bool char signed unsigned for while do return void switch break case continue goto long static union default if else
     • Signed and unsigned Integer constants such as 45, 10, -1234, +5432, 0, -32, etc.
     • Signed and unsigned Floating-point constants such as 1.4, -3.57, 0.72, etc. 
