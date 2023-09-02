@@ -1,4 +1,9 @@
 # Lexical-Analyzer
+
+Team Members:
+* Harshil Kaneria - B21CS033
+* Amisha Kumari - B21CS007
+
 Hard coded Finite state machines for Lexical Analysis 
 I will walk you through steps how to run the lexical analyzer we coded. First let us go through the constraints it supports.
 
