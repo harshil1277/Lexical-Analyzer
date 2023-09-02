@@ -16,20 +16,20 @@ I will walk you through steps how to run the lexical analyzer we coded. First le
 Download the zip file and extract or clone the repository. 
 
 Compiling the c++ program:
-go to the folder in which we have FSM.cpp file. 
-Run ‘g++ FSM.cpp’ command in this directory.
+* go to the folder in which we have FSM.cpp file. 
+* Run ‘g++ FSM.cpp’ command in this directory.
 
 Get the output of c++ program:
-run command ‘./a.out’ in same directory.
-Enter input file name , ex: ‘input.in’
-Enter output file name for TokenID and Atribute Value , ex : ‘pa_1.out’
-Enter output file name for Keyword and Identifier , ex: ‘symbol_table_1.out’
+* run command ‘./a.out’ in same directory.
+* Enter input file name , ex: ‘input.in’
+* Enter output file name for TokenID and Atribute Value , ex : ‘pa_1.out’
+* Enter output file name for Keyword and Identifier , ex: ‘symbol_table_1.out’
 
 Note: If you have not created the input and output file , first create the files in same directory.
 
 View the output:
 TokenID and corresponding values: 
-Run the command ‘cat pa_1.out’ i.e cat “output file name” , in the same directory.
+* Run the command ‘cat pa_1.out’ i.e cat “output file name” , in the same directory.
 
 Keyword and Indentifier :
-Run the command ‘cat symbol_table_1.out’ i.e cat “output file name” , in the same directory.
+* Run the command ‘cat symbol_table_1.out’ i.e cat “output file name” , in the same directory.
